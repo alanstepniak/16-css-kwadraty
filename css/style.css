@@ -1,0 +1,12 @@
+body
+{
+    background-color: #808080;
+    color: white;
+}
+div
+{
+width: 100px;
+height: 100px;
+background-color: #fea500;
+margin: 10px;
+}
